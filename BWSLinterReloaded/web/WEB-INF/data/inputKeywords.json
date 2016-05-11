@@ -1,0 +1,18 @@
+{
+    "siteSearch": "tea",
+    "ConfigDevUsername": "skumar213@sapient.com",
+    "ConfigDevPassword": "334512s!",
+    "desktopUserAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.52 Safari/537.36",
+    "tabletUserAgent": "",
+    "mobileUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53",
+    "Timeout": "180",
+    "threads": "10",
+    "phantomBrowserEXE": "phantomjs\\bin\\phantomjs.exe",
+    "hostMachine": "http://localhost:8080/",
+    "outputAddressWithHostMachine": "http://localhost:8080/BwsLinter/output.jsp?host=",
+    "runningHoursIn24fromat": "04",
+    "runningMinIn24fromat": "00",
+    "appPoolUsername": "skumar213@sapient.com",
+    "appPoolPassword": "334512s",
+    "appPoolUrl": "https://ci-bws.unileversolutions.com/login?from=%2Fview%2FInfrastructure%2Fjob%2FRecycleAppCache%2F"
+}

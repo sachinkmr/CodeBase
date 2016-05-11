@@ -1,0 +1,7 @@
+<%
+    boolean isUserAuthenticated = false;    
+    String admin = (String) session.getAttribute("Admin");
+    if (!(admin == null || admin == "")) {
+        isUserAuthenticated = true;
+    }    
+%>

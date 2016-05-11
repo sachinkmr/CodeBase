@@ -1,0 +1,35 @@
+<%--
+<%@page import="com.sachin.seo.LinksManager"%>
+<%@page import="com.sachin.seo.SEO"%>
+--%>
+<nav class="navbar-side" role="navigation">                        
+    <ul id="side" class="nav navbar-nav side-nav">
+        <!-- begin SIDE NAV logo -->
+        <li class="logo">
+            <img class=" img-responsive  hidden-xs" src="${pageContext.request.contextPath}/img/logo.png" alt="BWS Linter" id='seo-img'>             
+            <!--     <a href="${pageContext.request.contextPath}" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                             <img class="img-responsive img-circle hidden-xs" src="img/logo.png" alt="SEO" id='seo-img'/>
+                         </a>-->
+            <div class="clearfix"></div>
+        </li>
+        <li class="panel">
+            <a href="${pageContext.request.contextPath}" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-home"></i>Home
+            </a>
+            <ul class="collapse nav" id="BV-SEO">                                        
+            </ul>
+        </li>
+       
+        <li class="panel">
+            <a href="${pageContext.request.contextPath}/results.jsp" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-archive"></i>Reports
+            </a>            
+        </li>
+        <li class="panel">
+            <a href="${pageContext.request.contextPath}/admin" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-user-secret"></i>Admin
+            </a>            
+        </li>
+    </ul>
+    <!-- /.side-nav -->
+</nav>

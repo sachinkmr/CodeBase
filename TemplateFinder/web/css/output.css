@@ -1,0 +1,161 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 24, 2014, 12:46:54 PM
+    Author     : sku202
+*/
+
+
+#pie-charts {    
+    display: block;
+    width: auto;
+    padding-bottom: 11px
+}
+
+#site-info tr>td:first-child{
+    font-weight: bold;
+}
+/*------------------ Pie chart CSS--------------------*/
+
+
+@keyframes bake-pie {
+    from {
+        transform: rotate(0deg) translate3d(0,0,0);
+    }
+}
+
+.pieID {
+    display: inline-block;
+    vertical-align: top;
+}
+.pie {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    margin: 0 10px 5px 0;
+}
+.pie::before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 100px;
+    height: 100px;
+    background: #EEE;
+    border-radius: 50%;
+    top: 50px;
+    left: 50px;
+}
+.pie::after {
+    content: "";
+    display: block;
+    width: 120px;
+    height: 2px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 50%;
+    box-shadow: 0 0 3px 4px rgba(0,0,0,0.1);
+    margin: 220px auto;
+
+}
+.slice {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    clip: rect(0px, 200px, 200px, 100px);
+    animation: bake-pie 1s;
+}
+.slice span {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    clip: rect(0px, 200px, 200px, 100px);
+}
+.legend {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background: #FFF;
+    padding: 10px;
+    font-size: 11px;
+    box-shadow: 1px 1px 0 #DDD,
+        2px 2px 0 #BBB;
+}
+.legend li {
+    width: 165px;
+    height: 1.25em;
+    margin-bottom: 0.7em;
+    padding-left: 0.5em;
+    border-left: 1.25em solid black;
+}
+.legend em {
+    font-style: normal;
+}
+.legend span {
+    float: right;
+}
+.navbar-side .side-nav li.panel ul li a{
+    background: rgb(244, 244, 244);
+}
+.navbar-side .side-nav li.panel ul li a:hover,
+.navbar-side .side-nav li.panel ul li a:active,
+.navbar-side .side-nav li.panel ul li a:focus,
+.navbar-side .side-nav li.panel ul li a.active{
+    background: #4285f4;
+    color:white;
+}
+.navbar-side .side-nav li.panel ul li a i.fa{
+    padding-left: 15px;
+    color: black;
+}
+.well,.well-lg,.well-sm,.panel{
+    border-radius: 0;
+}
+.features ul {
+    list-style: none;
+    padding: 0 8px;
+}
+.features ul li{
+    padding: 2px 0;
+}
+.features ul li i{
+    color:#0098DB;
+    margin-right: 10px;
+}
+.guide-image{
+    margin: 15px auto;
+    border-radius: 0;
+}
+.guide-image img{
+    border-radius: 0;
+}
+.guide-title{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.guide-content{
+     margin-bottom: 30px;
+     border: 1px #eee dotted;
+     padding: 15px 30px 15px 5px;
+     background: #f8f8f8;
+}
+.guide-content> ul{
+    list-style: none;
+}
+.guide-content> ul>li i{
+   color:#0098DB;
+   margin-right: 10px;
+}
+.guide-content> ul>li span{
+    font-weight: bold;
+}
+.guide-content> ul>li img{
+    margin-left: 30px;
+}

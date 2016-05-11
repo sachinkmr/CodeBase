@@ -1,0 +1,6 @@
+<%
+    if (!userisAuthenticated) {        
+        RequestDispatcher dispatcher = request.getRequestDispatcher("AdminLogin");
+        dispatcher.forward(request, response);
+    }
+%>

@@ -1,0 +1,19 @@
+Selenium to do:
+	
+    Selenium WebDriver Architecture - Coming Soon
+    Concept of Polymorphism in Selenium – Coming Soon
+    Encapsulation in Selenium WebDriver - Coming Soon
+	Handle Unexpected Alert – – Coming Soon
+	Expected Condition Wait – – Coming Soon
+	RightClick, Double Click & Tool Tip – Coming Soon
+	KeyBoard Events – Coming Soon
+	Robot Class – Keyboard Events – Coming Soon
+	How to handle Proxy in Selenium WebDriver – Coming Soon
+	How to Handle Untrusted Certificate in Selenium or How to handle SSL Certificate in Selenium – Coming Soon
+	Capturing ScreenShot & Entire Page ScreenShot – Coming Soon
+	Upload & Download files – Coming Soon
+	Selenium of Exceptions and handling – Coming Soon
+	
+	Hard Asserts & Soft Asserts – Coming Soon	
+    Jenkins Introduction – Coming Soon
+    Selenium Integration with Jenkins – Coming Soon

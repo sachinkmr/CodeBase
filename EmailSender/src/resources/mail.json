@@ -1,0 +1,9 @@
+{
+    "host": "inrelaymail.sapient.com",
+    "port": "25",
+    "authentication": false,
+    "useSSL":false,
+    "useTSL":false,
+    "mailFrom": "unileverseo@sapient.com",
+    "password": ""    
+}

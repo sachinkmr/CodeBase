@@ -1,0 +1,145 @@
+2015-05-05:6-26-32 - Cookie rejected [JSESSIONID="ajax:7448989550391320537", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830590:t=1430916990:s=AQGzshEMNp975BDZAfU4pMUenoiGxVUk"; Expires=Wed, 06 May 2015 12:56:30 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:56:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: moflow_session_id=8267127435821056; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:30 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: moflow_session_id=3724646574718976; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:30 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: moflow_session_id=5599550196678656; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:30 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: moflow_session_id=1757538081046528; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:30 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: moflow_session_id=8541269877850112; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:30 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: moflow_session_id=2077490203852800; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:30 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830590:t=1430916990:s=AQGzshEMNp975BDZAfU4pMUenoiGxVUk"; Expires=Wed, 06 May 2015 12:56:30 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:56:30 GMT
+2015-05-05:6-26-32 - Cookie rejected [JSESSIONID="ajax:7218426936359596826", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:6-26-32 - Cookie rejected [JSESSIONID="ajax:5683971388698968639", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830590:t=1430916990:s=AQGzshEMNp975BDZAfU4pMUenoiGxVUk"; Expires=Wed, 06 May 2015 12:56:30 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:56:30 GMT
+2015-05-05:6-26-32 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830590:t=1430916990:s=AQGzshEMNp975BDZAfU4pMUenoiGxVUk"; Expires=Wed, 06 May 2015 12:56:30 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:56:30 GMT
+2015-05-05:6-26-33 - Invalid cookie header: "Set-Cookie: moflow_session_id=5599550196678656; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:31 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:31 GMT
+2015-05-05:6-26-33 - Invalid cookie header: "Set-Cookie: moflow_session_id=5599550196678656; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:11:31 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:11:31 GMT
+2015-05-05:6-26-33 - Invalid cookie header: "Set-Cookie: mobileregsplash=1430830591327; Path=/; Domain=.www.linkedin.com; Max-Age=31536000; Expires=Wed, 04 May 2016 12:56:31 GMT". Invalid 'expires' attribute: Wed, 04 May 2016 12:56:31 GMT
+2015-05-05:6-26-33 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830591:t=1430916991:s=AQERy8JpFiyb04xUNTOeH7RRP7J-0Zss"; Expires=Wed, 06 May 2015 12:56:31 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:56:31 GMT
+2015-05-05:6-26-33 - Cookie rejected [JSESSIONID="ajax:9182891041509699130", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:6-26-33 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830591:t=1430916991:s=AQERy8JpFiyb04xUNTOeH7RRP7J-0Zss"; Expires=Wed, 06 May 2015 12:56:31 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:56:31 GMT
+2015-05-05:6-26-33 - 
+java.io.FileNotFoundException: C:\Users\sku202\Desktop\Template File.xlsx (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at com.sapient.unilever.ExcelManager.createData(ExcelManager.java:112)
+	at com.sapient.unilever.Controller.run(Controller.java:150)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:452)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:447)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: moflow_session_id=2957746204835840; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:22 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:22 GMT
+2015-05-05:06-27-24 - Cookie rejected [JSESSIONID="ajax:4426182668753515297", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-27-24 - Cookie rejected [JSESSIONID="ajax:4622042206020277780", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-27-24 - Cookie rejected [JSESSIONID="ajax:3352897240180960466", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830643:t=1430917043:s=AQF1xA0DA5-lMexlAbPK43X5ln-9zmUq"; Expires=Wed, 06 May 2015 12:57:23 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:57:23 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830643:t=1430917043:s=AQF1xA0DA5-lMexlAbPK43X5ln-9zmUq"; Expires=Wed, 06 May 2015 12:57:23 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:57:23 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830643:t=1430917043:s=AQF1xA0DA5-lMexlAbPK43X5ln-9zmUq"; Expires=Wed, 06 May 2015 12:57:23 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:57:23 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: moflow_session_id=2572323039215616; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:22 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:22 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: moflow_session_id=2530542211825664; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:22 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:22 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: moflow_session_id=6198667415388160; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:22 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:22 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: moflow_session_id=4871827381813248; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:22 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:22 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: moflow_session_id=5401584307535872; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:22 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:22 GMT
+2015-05-05:06-27-24 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830643:t=1430917043:s=AQF1xA0DA5-lMexlAbPK43X5ln-9zmUq"; Expires=Wed, 06 May 2015 12:57:23 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:57:23 GMT
+2015-05-05:06-27-25 - Invalid cookie header: "Set-Cookie: moflow_session_id=2530542211825664; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:23 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:23 GMT
+2015-05-05:06-27-25 - Invalid cookie header: "Set-Cookie: moflow_session_id=2530542211825664; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:12:23 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:12:23 GMT
+2015-05-05:06-27-25 - Invalid cookie header: "Set-Cookie: mobileregsplash=1430830643514; Path=/; Domain=.www.linkedin.com; Max-Age=31536000; Expires=Wed, 04 May 2016 12:57:23 GMT". Invalid 'expires' attribute: Wed, 04 May 2016 12:57:23 GMT
+2015-05-05:06-27-25 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830643:t=1430917043:s=AQF1xA0DA5-lMexlAbPK43X5ln-9zmUq"; Expires=Wed, 06 May 2015 12:57:23 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:57:23 GMT
+2015-05-05:06-27-25 - Cookie rejected [JSESSIONID="ajax:0234155953042063850", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-27-25 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830643:t=1430917043:s=AQF1xA0DA5-lMexlAbPK43X5ln-9zmUq"; Expires=Wed, 06 May 2015 12:57:23 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:57:23 GMT
+2015-05-05:06-27-26 - 
+java.io.FileNotFoundException: C:\Users\sku202\Desktop\Template File.xlsx (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at com.sapient.unilever.ExcelManager.createData(ExcelManager.java:112)
+	at com.sapient.unilever.Controller.run(Controller.java:150)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:452)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:447)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=5094283554062336; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:11 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:11 GMT
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=4238000527507456; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:11 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:11 GMT
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=8591470827143168; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:11 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:11 GMT
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=2133172913438720; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:11 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:11 GMT
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=7468479206653952; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:11 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:11 GMT
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=7201055144148992; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:11 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:11 GMT
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830751:t=1430917151:s=AQGhhsES62ZrJXbBS0MMnffkosURB3aS"; Expires=Wed, 06 May 2015 12:59:11 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:59:11 GMT
+2015-05-05:06-29-13 PM - Cookie rejected [JSESSIONID="ajax:4667258989273912694", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830751:t=1430917151:s=AQGhhsES62ZrJXbBS0MMnffkosURB3aS"; Expires=Wed, 06 May 2015 12:59:11 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:59:11 GMT
+2015-05-05:06-29-13 PM - Cookie rejected [JSESSIONID="ajax:7529721685541492704", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830751:t=1430917151:s=AQGhhsES62ZrJXbBS0MMnffkosURB3aS"; Expires=Wed, 06 May 2015 12:59:11 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:59:11 GMT
+2015-05-05:06-29-13 PM - Cookie rejected [JSESSIONID="ajax:5098494467362533817", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-29-13 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830751:t=1430917151:s=AQGhhsES62ZrJXbBS0MMnffkosURB3aS"; Expires=Wed, 06 May 2015 12:59:11 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:59:11 GMT
+2015-05-05:06-29-14 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=8591470827143168; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:12 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:12 GMT
+2015-05-05:06-29-14 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=8591470827143168; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:14:12 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:14:12 GMT
+2015-05-05:06-29-14 PM - Invalid cookie header: "Set-Cookie: mobileregsplash=1430830752279; Path=/; Domain=.www.linkedin.com; Max-Age=31536000; Expires=Wed, 04 May 2016 12:59:12 GMT". Invalid 'expires' attribute: Wed, 04 May 2016 12:59:12 GMT
+2015-05-05:06-29-14 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830752:t=1430917152:s=AQFgtkT8myKNewp5x3CNyE9z3okurVhd"; Expires=Wed, 06 May 2015 12:59:12 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:59:12 GMT
+2015-05-05:06-29-14 PM - Cookie rejected [JSESSIONID="ajax:7354334378770514253", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-29-14 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830752:t=1430917152:s=AQFgtkT8myKNewp5x3CNyE9z3okurVhd"; Expires=Wed, 06 May 2015 12:59:12 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:59:12 GMT
+2015-05-05:06-29-15 PM - 
+java.io.FileNotFoundException: C:\Users\sku202\Desktop\Template File.xlsx (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at com.sapient.unilever.ExcelManager.createData(ExcelManager.java:112)
+	at com.sapient.unilever.Controller.run(Controller.java:150)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:452)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:447)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2015-05-05:06-30-17 PM - Cookie rejected [JSESSIONID="ajax:1648900144677378238", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830815:t=1430917215:s=AQGY56EzISjmJhAPhChOoVbfD9UtXqft"; Expires=Wed, 06 May 2015 13:00:15 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 13:00:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=1270548141178880; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=7581650145771520; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=7946112306511872; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=5006275857350656; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=7051607462117376; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=1636305339416576; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830815:t=1430917215:s=AQGY56EzISjmJhAPhChOoVbfD9UtXqft"; Expires=Wed, 06 May 2015 13:00:15 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 13:00:15 GMT
+2015-05-05:06-30-17 PM - Cookie rejected [JSESSIONID="ajax:0706893591879358683", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830815:t=1430917215:s=AQGY56EzISjmJhAPhChOoVbfD9UtXqft"; Expires=Wed, 06 May 2015 13:00:15 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 13:00:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=7946112306511872; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: moflow_session_id=7946112306511872; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:15:15 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:15:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: mobileregsplash=1430830815743; Path=/; Domain=.www.linkedin.com; Max-Age=31536000; Expires=Wed, 04 May 2016 13:00:15 GMT". Invalid 'expires' attribute: Wed, 04 May 2016 13:00:15 GMT
+2015-05-05:06-30-17 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830815:t=1430917215:s=AQGY56EzISjmJhAPhChOoVbfD9UtXqft"; Expires=Wed, 06 May 2015 13:00:15 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 13:00:15 GMT
+2015-05-05:06-30-18 PM - 
+java.net.UnknownHostException: linkedin.cddom
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:907)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1302)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1255)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at com.sapient.unilever.Crawler.processURL(Crawler.java:67)
+	at com.sapient.unilever.Crawler.run(Crawler.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2015-05-05:06-30-18 PM - Cookie rejected [JSESSIONID="ajax:3059770609093392885", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05:06-30-18 PM - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830816:t=1430917216:s=AQFxsw9y8fLrfwtuNefB7lwW75q_5WDd"; Expires=Wed, 06 May 2015 13:00:16 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 13:00:16 GMT

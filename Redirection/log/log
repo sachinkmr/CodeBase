@@ -1,0 +1,92 @@
+2015-05-05 DEBUG [pool-3-thread-1] (Wire.java:72) - http-outgoing-10 << "[\r][\n]"
+2015-05-05 DEBUG [pool-3-thread-1] (Wire.java:72) - http-outgoing-10 << "0[\r][\n]"
+2015-05-05 DEBUG [pool-3-thread-1] (Wire.java:72) - http-outgoing-10 << "[\r][\n]"
+2015-05-05 DEBUG [pool-3-thread-1] (PoolingHttpClientConnectionManager.java:314) - Connection [id: 10][route: {s}->https://www.linkedin.com:443] can be kept alive indefinitely
+2015-05-05 DEBUG [pool-3-thread-1] (PoolingHttpClientConnectionManager.java:320) - Connection released: [id: 10][route: {s}->https://www.linkedin.com:443][total kept alive: 2; route allocated: 1 of 2; total allocated: 2 of 20]
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:388) - Connection manager is shutting down
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-10: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-9: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-9: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-10: Close connection
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:394) - Connection manager shut down
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:388) - Connection manager is shutting down
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-5: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-1: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-1: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-5: Close connection
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:394) - Connection manager shut down
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:388) - Connection manager is shutting down
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-4: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-4: Close connection
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:394) - Connection manager shut down
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:388) - Connection manager is shutting down
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-8: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-2: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-2: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-8: Close connection
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:394) - Connection manager shut down
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:388) - Connection manager is shutting down
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-7: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-3: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-3: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-7: Close connection
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:394) - Connection manager shut down
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:388) - Connection manager is shutting down
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-11: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-6: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-0: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-11: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-0: Close connection
+2015-05-05 DEBUG [Finalizer] (LoggingManagedHttpClientConnection.java:79) - http-outgoing-6: Close connection
+2015-05-05 DEBUG [Finalizer] (PoolingHttpClientConnectionManager.java:394) - Connection manager shut down
+2015-05-05  WARN [SwingWorker-pool-2-thread-1] (ExcelManager.java:120) - 
+java.io.FileNotFoundException: C:\Users\sku202\Desktop\Template File.xlsx (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at com.sapient.unilever.ExcelManager.createData(ExcelManager.java:112)
+	at com.sapient.unilever.Controller.run(Controller.java:150)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:452)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:447)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2015-05-05 - Cookie rejected [JSESSIONID="ajax:3064072491627291006", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830139:t=1430916539:s=AQEQ3WWtcMzpUDOpJoe3SSuS0P71M4f-"; Expires=Wed, 06 May 2015 12:48:59 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:48:59 GMT
+2015-05-05 - Cookie rejected [JSESSIONID="ajax:8563806587717199820", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830139:t=1430916539:s=AQEQ3WWtcMzpUDOpJoe3SSuS0P71M4f-"; Expires=Wed, 06 May 2015 12:48:59 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:48:59 GMT
+2015-05-05 - Cookie rejected [JSESSIONID="ajax:7213476560073442783", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830139:t=1430916539:s=AQEQ3WWtcMzpUDOpJoe3SSuS0P71M4f-"; Expires=Wed, 06 May 2015 12:48:59 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:48:59 GMT
+2015-05-05 - Cookie rejected [JSESSIONID="ajax:6899843500783014555", version:1, domain:.www.linkedin.com, path:/, expiry:null] Illegal domain attribute ".www.linkedin.com". Domain of origin: "www.linkedin.com"
+2015-05-05 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830140:t=1430916540:s=AQFloyaKEcqexbQqAdnR0zeX93Ljbtq_"; Expires=Wed, 06 May 2015 12:49:00 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:49:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=3436604706258944; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=2510576121020416; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=3483389902454784; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=2943795366723584; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=4341754008436736; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=4012631421616128; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830140:t=1430916540:s=AQFloyaKEcqexbQqAdnR0zeX93Ljbtq_"; Expires=Wed, 06 May 2015 12:49:00 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:49:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=3483389902454784; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: moflow_session_id=3483389902454784; Path=/; Domain=.www.linkedin.com; Max-Age=900; Expires=Tue, 05 May 2015 13:04:00 GMT". Invalid 'expires' attribute: Tue, 05 May 2015 13:04:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: mobileregsplash=1430830140780; Path=/; Domain=.www.linkedin.com; Max-Age=31536000; Expires=Wed, 04 May 2016 12:49:00 GMT". Invalid 'expires' attribute: Wed, 04 May 2016 12:49:00 GMT
+2015-05-05 - Invalid cookie header: "Set-Cookie: lidc="b=LB01:g=218:u=1:i=1430830140:t=1430916540:s=AQFloyaKEcqexbQqAdnR0zeX93Ljbtq_"; Expires=Wed, 06 May 2015 12:49:00 GMT; domain=.linkedin.com; Path=/". Invalid 'expires' attribute: Wed, 06 May 2015 12:49:00 GMT
+2015-05-05 - 
+java.io.FileNotFoundException: C:\Users\sku202\Desktop\Template File.xlsx (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at com.sapient.unilever.ExcelManager.createData(ExcelManager.java:112)
+	at com.sapient.unilever.Controller.run(Controller.java:150)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:452)
+	at com.sapient.unilever.RedirectionFinder$7.doInBackground(RedirectionFinder.java:447)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)

@@ -1,0 +1,24 @@
+<%
+    String serverName="http://"+java.net.InetAddress.getLocalHost().getHostAddress()+":"+request.getLocalPort();
+    session.setAttribute("serverName", serverName);
+%>
+<meta charset="utf-8"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<meta name="description" content=""> 
+<meta name="author" content="Sachin">     
+<!-- Bootstrap core CSS --> 
+<link href="<%=serverName%>${pageContext.request.contextPath}/css/bootstrap.min.css" rel="stylesheet">
+<link href="<%=serverName%>${pageContext.request.contextPath}/css/bootstrap-theme.min.css" rel="stylesheet">
+<link href="<%=serverName%>${pageContext.request.contextPath}/css/jquery-ui.structure.min.css" rel="stylesheet">
+<link href="<%=serverName%>${pageContext.request.contextPath}/css/jquery-ui.min.css" rel="stylesheet">
+<link href="<%=serverName%>${pageContext.request.contextPath}/css/jquery-ui.theme.min.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="<%=serverName%>${pageContext.request.contextPath}/js/html5shiv.min.js"></script>
+  <script src="<%=serverName%>${pageContext.request.contextPath}/js/respond.min.js"></script>
+<![endif]-->
+<link href="<%=serverName%>${pageContext.request.contextPath}/css/font-awesome.min.css" rel="stylesheet">
+<link href="<%=serverName%>${pageContext.request.contextPath}/css/allPages.css" rel="stylesheet">
+<link rel='SHORTCUT ICON' href='<%=serverName%>${pageContext.request.contextPath}/img/fav.png' type='image/png' />

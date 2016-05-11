@@ -1,0 +1,148 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 24, 2014, 12:46:54 PM
+    Author     : sku202
+*/
+
+
+#seo{    
+    padding: 15px;
+    display: block;
+    border-top: 1px solid #eee;
+}
+
+
+#content{
+    margin-left: 50px;
+}
+
+
+#orangeBar p,#orangeBar{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    vertical-align: top;
+    color:black;                
+}
+
+.nav-tabs>li>a {
+    border-radius: 0;
+    border: 0;
+    color: #333;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.nav-tabs>li>a:hover,
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:hover, 
+.nav-tabs>li.active>a:focus{
+    background: transparent;
+    border: 0;
+    border-bottom: 3px solid #84439a;
+}
+
+#bars{
+    padding-top: 5px;
+}
+
+.tab-pane-data{
+    display: table-cell;    
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.progress{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.mask-data{
+    /*padding-top: 48px;*/
+}
+#mask{
+    padding: 0;
+}
+
+#custom ul{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+#custom ul li{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+
+#mask{	
+    display:none;
+    background: #000;
+    position:absolute;
+    color: white;
+    width: 100%;
+
+    /*    left: 0;
+        top: 0;*/
+    z-index: 2500;	
+    opacity: 0.8;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1), 0 3px 2px rgba(0,0,0,0.1); 
+}
+#mask >div{
+    text-align: center;
+    margin-top: 50px;
+}
+.section{
+    width: 100%;
+    padding-bottom: 1px;
+    border-bottom: 1px solid #ccc;        
+    font-size: 18px;
+    font-weight: normal;
+    //    margin-bottom: 10px;
+}
+.section a{
+    text-decoration: none;
+    color:#333;
+    font-size: 18px;
+    font-weight: normal;    
+}
+.section-data{
+    //    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    width: 100%;
+    height: auto;
+    display: block;    
+}
+.my-row{
+    margin-bottom: 40px;
+}
+.site-data{
+    margin-bottom: 15px;
+}
+.labelClass{
+    font-weight: bold;
+    display:block;
+    padding-bottom: 10px;
+}
+.mask-data p{
+    text-align: left;
+    font-size: 17px;
+}
+.radio label, .checkbox label {
+    padding-left: 0;
+}
+.crawler-label{
+    margin-bottom: 10px !important;
+}
+.site-functions{
+    border-right: 1px dotted black;
+}
+.content-row{
+    margin-bottom: 20px;
+}
+#auth-label,#setPerformance{
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+{
+   
+    "ConfigDevUrl": "http://bws-selfservice.unileversolutions.com/",
+    "ConfigDevPassword": "334512s",
+    "ConfigDevUsername": "skumar213@sapient.com",
+    "appPoolUrl": "https://ci-bws.unileversolutions.com/login?from=%2Fview%2FInfrastructure%2Fjob%2FRecycleAppCache%2F",
+    "desktopUserAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.52 Safari/537.36",
+    "threadHidden": "20",
+    "Timeout": "120",
+    "tabletUserAgent": "Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53",
+    "runningHoursIn24fromat": "00",
+    "runningMinIn24fromat": "02",
+    "threads": "10",
+    "mobileUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53",
+    "phantomBrowserEXE": "phantomjs\\bin\\phantomjs.exe",
+    "IEDriverEXE": "IEDriver\\IEDriverServer.exe",
+    "hostMachine": "http://10.202.12.215/",
+    "outputAddressWithHostMachine": "http://localhost:8080/BWSLinterReloaded/output.jsp?host=",
+    "appPoolUsername": "skumar213@sapient.com",
+    "appPoolPassword": "334512s"
+    
+}

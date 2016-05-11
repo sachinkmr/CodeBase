@@ -1,0 +1,622 @@
+{
+    "Responsive": {
+        "idInquiryType": {
+            "name": "contactUs.inquiryType",
+            "id": "idInquiryType",
+            "type": "select",
+            "value": "1"
+        },
+        "emailId": {
+            "name": "contact.email",
+            "id": "emailId",
+            "type": "text",
+            "value": "test@automate.com"
+        },
+        "prefix": {
+            "name": "contact.honorificPrefix",
+            "id": "prefix",
+            "type": "text",
+            "value": "Mr."
+        },
+        "gender": {
+            "name": "contact.gender",
+            "id": "gender",
+            "type": "select",
+            "value": "1"
+        },
+        "firstName": {
+            "name": "contact.givenName",
+            "id": "firstName",
+            "type": "text",
+            "value": "Sachin"
+        },
+        "lastName": {
+            "name": "contact.familyName",
+            "id": "lastName",
+            "type": "text",
+            "value": "Kumar"
+        },
+        "address1": {
+            "name": "contact.streetAddress1",
+            "id": "address1",
+            "type": "text",
+            "value": "address line 1"
+        },
+        "address2": {
+            "name": "contact.streetAddress2",
+            "id": "address2",
+            "type": "text",
+            "value": "address line 2"
+        },
+        "address3": {
+            "name": "contact.streetAddress3",
+            "id": "address3",
+            "type": "text",
+            "value": "Address Line 3"
+        },
+        "city": {
+            "name": "contact.locality",
+            "id": "city",
+            "type": "text",
+            "value": "City"
+        },
+        "state": {
+            "name": "contact.region",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        "zip": {
+            "name": "contact.postalCode",
+            "id": "zip",
+            "type": "text",
+            "value": "data-mask"
+        },
+        "legalAge": {
+            "name": "legalAge",
+            "id": "legalAge",
+            "type": "checkbox",
+            "value": "true"
+        },
+        "dob": {
+            "name": "contact.birthday",
+            "id": "dob",
+            "type": "text",
+            "value": "datepicker"
+        },
+        "showCountry": {
+            "name": "contact.country",
+            "id": "showCountry",
+            "type": "text",
+            "value": "value"
+        },
+        "primePhone": {
+            "name": "contact.phoneNumbers[0].value",
+            "id": "primePhone",
+            "type": "text",
+            "value": ""
+        },
+        "primePhoneExt": {
+            "name": "contact.phoneNumbers[0].ext",
+            "id": "primePhoneExt",
+            "type": "text",
+            "value": ""
+        },
+        "secPhone": {
+            "name": "contact.phoneNumbers[1].value",
+            "id": "secPhone",
+            "type": "text",
+            "value": ""
+        },
+        "secPhoneExt": {
+            "name": "contact.phoneNumbers[1].ext",
+            "id": "secPhoneExt",
+            "type": "text",
+            "value": ""
+        },
+        "contact.languagePref": {
+            "name": "contact.languagePref",
+            "id": "languagePref",
+            "type": "radio",
+            "value": "0"
+        },
+        "contacttype": {
+            "name": "contactUs.contactType",
+            "id": "contacttype",
+            "type": "select",
+            "value": "1"
+        },
+        "UPCCode": {
+            "name": "contactUs.upcCode",
+            "id": "UPCCode",
+            "type": "text",
+            "value": "1234567890"
+        },
+        "idUPCDetails": {
+            "name": "contactUs.upcCodeDetail",
+            "id": "idUPCDetails",
+            "type": "select",
+            "value": "2"
+        },
+        "product": {
+            "name": "contactUs.product",
+            "id": "product",
+            "type": "text",
+            "value": "Product name"
+        },
+        "size": {
+            "name": "contactUs.size",
+            "id": "size",
+            "type": "text",
+            "value": "size"
+        },
+        "ManufacturingCode": {
+            "name": "contactUs.manufacturingCode",
+            "id": "ManufacturingCode",
+            "type": "text",
+            "value": "asdadasd ad as"
+        },
+        "StoreName": {
+            "name": "contactUs.storeNamePurchasedFrom",
+            "id": "StoreName",
+            "type": "text",
+            "value": "StoreName"
+        },
+        "storeNamePurchasedFrom": {
+            "name": "contactUs.storeNamePurchasedFrom",
+            "id": "storeNamePurchasedFrom",
+            "type": "text",
+            "value": "storeNamePurchasedFrom"
+        },
+        "contactUs.townPurchasedFrom": {
+            "name": "contactUs.townPurchasedFrom",
+            "id": "townPurchasedFrom",
+            "type": "text",
+            "value": "townPurchasedFrom"
+        },
+        "datepurchased": {
+            "name": "contactUs.datePurchased",
+            "id": "datepurchased",
+            "type": "text",
+            "value": "datepicker"
+        },
+        "comment": {
+            "name": "contactUs.comments",
+            "id": "comment",
+            "type": "textarea",
+            "value": "comment comment comment comment comment comment comment comment comment comment comment comment "
+        },
+        "idManufacturingCodeDetails": {
+            "name": "contactUs.manufacturingCodeDetail",
+            "id": "idManufacturingCodeDetails",
+            "type": "select",
+            "value": "1"
+        }
+    },
+    "NonResponsive":{
+        "idInquiryType": {
+            "name": "contactUs.inquiryType",
+            "id": "idInquiryType",
+            "type": "select",
+            "value": "1"
+        },
+        "emailId": {
+            "name": "contact.email",
+            "id": "emailId",
+            "type": "text",
+            "value": "test@automate.com"
+        },
+        "prefix": {
+            "name": "contact.honorificPrefix",
+            "id": "prefix",
+            "type": "text",
+            "value": "Mr."
+        },
+        "gender": {
+            "name": "contact.gender",
+            "id": "gender",
+            "type": "select",
+            "value": "1"
+        },
+        "firstName": {
+            "name": "contact.givenName",
+            "id": "firstName",
+            "type": "text",
+            "value": "Sachin"
+        },
+        "lastName": {
+            "name": "contact.familyName",
+            "id": "lastName",
+            "type": "text",
+            "value": "Kumar"
+        },
+        "address1": {
+            "name": "contact.streetAddress1",
+            "id": "address1",
+            "type": "text",
+            "value": "address line 1"
+        },
+        "address2": {
+            "name": "contact.streetAddress2",
+            "id": "address2",
+            "type": "text",
+            "value": "address line 2"
+        },
+        "address3": {
+            "name": "contact.streetAddress3",
+            "id": "address3",
+            "type": "text",
+            "value": "Address Line 3"
+        },
+        "city": {
+            "name": "contact.locality",
+            "id": "city",
+            "type": "text",
+            "value": "City"
+        },
+        "state": {
+            "name": "contact.region",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        "zip": {
+            "name": "contact.postalCode",
+            "id": "zip",
+            "type": "text",
+            "value": "data-mask"
+        },
+        "legalAge": {
+            "name": "legalAge",
+            "id": "legalAge",
+            "type": "checkbox",
+            "value": "true"
+        },
+        "month": {
+            "name": "month",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        "day": {
+            "name": "day",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        "year": {
+            "name": "year",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        
+        "dob": {
+            "name": "contact.birthday",
+            "id": "dob",
+            "type": "text",
+            "value": "datepicker"
+        },
+        "showCountry": {
+            "name": "contact.country",
+            "id": "showCountry",
+            "type": "text",
+            "value": "value"
+        },
+        "primePhone": {
+            "name": "contact.phoneNumbers[0].value",
+            "id": "primePhone",
+            "type": "text",
+            "value": ""
+        },
+        "primePhoneExt": {
+            "name": "contact.phoneNumbers[0].ext",
+            "id": "primePhoneExt",
+            "type": "text",
+            "value": ""
+        },
+        "secPhone": {
+            "name": "contact.phoneNumbers[1].value",
+            "id": "secPhone",
+            "type": "text",
+            "value": ""
+        },
+        "secPhoneExt": {
+            "name": "contact.phoneNumbers[1].ext",
+            "id": "secPhoneExt",
+            "type": "text",
+            "value": ""
+        },
+        "contact.languagePref": {
+            "name": "contact.languagePref",
+            "id": "languagePref",
+            "type": "radio",
+            "value": "0"
+        },
+        "contacttype": {
+            "name": "contactUs.contactType",
+            "id": "contacttype",
+            "type": "select",
+            "value": "1"
+        },
+        "UPCCode": {
+            "name": "contactUs.upcCode",
+            "id": "UPCCode",
+            "type": "text",
+            "value": "1234567890"
+        },
+        "idUPCDetails": {
+            "name": "contactUs.upcCodeDetail",
+            "id": "idUPCDetails",
+            "type": "select",
+            "value": "2"
+        },
+        "product": {
+            "name": "contactUs.product",
+            "id": "product",
+            "type": "text",
+            "value": "Product name"
+        },
+        "size": {
+            "name": "contactUs.size",
+            "id": "size",
+            "type": "text",
+            "value": "size"
+        },
+        "ManufacturingCode": {
+            "name": "contactUs.manufacturingCode",
+            "id": "ManufacturingCode",
+            "type": "text",
+            "value": "asdadasd ad as"
+        },
+        "StoreName": {
+            "name": "contactUs.storeNamePurchasedFrom",
+            "id": "StoreName",
+            "type": "text",
+            "value": "StoreName"
+        },
+        "storeNamePurchasedFrom": {
+            "name": "contactUs.storeNamePurchasedFrom",
+            "id": "storeNamePurchasedFrom",
+            "type": "text",
+            "value": "storeNamePurchasedFrom"
+        },
+        "contactUs.townPurchasedFrom": {
+            "name": "contactUs.townPurchasedFrom",
+            "id": "townPurchasedFrom",
+            "type": "text",
+            "value": "townPurchasedFrom"
+        },
+        "datepurchased": {
+            "name": "contactUs.datePurchased",
+            "id": "datepurchased",
+            "type": "text",
+            "value": "datepicker"
+        },
+        "comment": {
+            "name": "contactUs.comments",
+            "id": "comment",
+            "type": "textarea",
+            "value": "comment comment comment comment comment comment comment comment comment comment comment comment "
+        },
+        "idManufacturingCodeDetails": {
+            "name": "contactUs.manufacturingCodeDetail",
+            "id": "idManufacturingCodeDetails",
+            "type": "select",
+            "value": "1"
+        }
+    },
+    "MOS":{
+        "idInquiryType": {
+            "name": "contactUs.inquiryType",
+            "id": "idInquiryType",
+            "type": "select",
+            "value": "1"
+        },
+        "emailId": {
+            "name": "contact.email",
+            "id": "emailId",
+            "type": "text",
+            "value": "test@automate.com"
+        },
+        "prefix": {
+            "name": "contact.honorificPrefix",
+            "id": "prefix",
+            "type": "text",
+            "value": "Mr."
+        },
+        "gender": {
+            "name": "contact.gender",
+            "id": "gender",
+            "type": "select",
+            "value": "1"
+        },
+        "firstName": {
+            "name": "contact.givenName",
+            "id": "firstName",
+            "type": "text",
+            "value": "Sachin"
+        },
+        "lastName": {
+            "name": "contact.familyName",
+            "id": "lastName",
+            "type": "text",
+            "value": "Kumar"
+        },
+        "address1": {
+            "name": "contact.streetAddress1",
+            "id": "address1",
+            "type": "text",
+            "value": "address line 1"
+        },
+        "address2": {
+            "name": "contact.streetAddress2",
+            "id": "address2",
+            "type": "text",
+            "value": "address line 2"
+        },
+        "address3": {
+            "name": "contact.streetAddress3",
+            "id": "address3",
+            "type": "text",
+            "value": "Address Line 3"
+        },
+        "city": {
+            "name": "contact.locality",
+            "id": "city",
+            "type": "text",
+            "value": "City"
+        },
+        "state": {
+            "name": "contact.region",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        "zip": {
+            "name": "contact.postalCode",
+            "id": "zip",
+            "type": "text",
+            "value": "data-mask"
+        },
+        "legalAge": {
+            "name": "legalAge",
+            "id": "legalAge",
+            "type": "checkbox",
+            "value": "true"
+        },
+        "month": {
+            "name": "month",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        "day": {
+            "name": "day",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        "year": {
+            "name": "year",
+            "id": "state",
+            "type": "select",
+            "value": "1"
+        },
+        
+        "dob": {
+            "name": "contact.birthday",
+            "id": "dob",
+            "type": "text",
+            "value": "datepicker"
+        },
+        "showCountry": {
+            "name": "contact.country",
+            "id": "showCountry",
+            "type": "text",
+            "value": "value"
+        },
+        "primePhone": {
+            "name": "contact.phoneNumbers[0].value",
+            "id": "primePhone",
+            "type": "text",
+            "value": ""
+        },
+        "primePhoneExt": {
+            "name": "contact.phoneNumbers[0].ext",
+            "id": "primePhoneExt",
+            "type": "text",
+            "value": ""
+        },
+        "secPhone": {
+            "name": "contact.phoneNumbers[1].value",
+            "id": "secPhone",
+            "type": "text",
+            "value": ""
+        },
+        "secPhoneExt": {
+            "name": "contact.phoneNumbers[1].ext",
+            "id": "secPhoneExt",
+            "type": "text",
+            "value": ""
+        },
+        "contact.languagePref": {
+            "name": "contact.languagePref",
+            "id": "languagePref",
+            "type": "radio",
+            "value": "0"
+        },
+        "contacttype": {
+            "name": "contactUs.contactType",
+            "id": "contacttype",
+            "type": "select",
+            "value": "1"
+        },
+        "UPCCode": {
+            "name": "contactUs.upcCode",
+            "id": "UPCCode",
+            "type": "text",
+            "value": "1234567890"
+        },
+        "idUPCDetails": {
+            "name": "contactUs.upcCodeDetail",
+            "id": "idUPCDetails",
+            "type": "select",
+            "value": "2"
+        },
+        "product": {
+            "name": "contactUs.product",
+            "id": "product",
+            "type": "text",
+            "value": "Product name"
+        },
+        "size": {
+            "name": "contactUs.size",
+            "id": "size",
+            "type": "text",
+            "value": "size"
+        },
+        "ManufacturingCode": {
+            "name": "contactUs.manufacturingCode",
+            "id": "ManufacturingCode",
+            "type": "text",
+            "value": "asdadasd ad as"
+        },
+        "StoreName": {
+            "name": "contactUs.storeNamePurchasedFrom",
+            "id": "StoreName",
+            "type": "text",
+            "value": "StoreName"
+        },
+        "storeNamePurchasedFrom": {
+            "name": "contactUs.storeNamePurchasedFrom",
+            "id": "storeNamePurchasedFrom",
+            "type": "text",
+            "value": "storeNamePurchasedFrom"
+        },
+        "contactUs.townPurchasedFrom": {
+            "name": "contactUs.townPurchasedFrom",
+            "id": "townPurchasedFrom",
+            "type": "text",
+            "value": "townPurchasedFrom"
+        },
+        "datepurchased": {
+            "name": "contactUs.datePurchased",
+            "id": "datepurchased",
+            "type": "text",
+            "value": "datepicker"
+        },
+        "comment": {
+            "name": "contactUs.comments",
+            "id": "comment",
+            "type": "textarea",
+            "value": "comment comment comment comment comment comment comment comment comment comment comment comment "
+        },
+        "idManufacturingCodeDetails": {
+            "name": "contactUs.manufacturingCodeDetail",
+            "id": "idManufacturingCodeDetails",
+            "type": "select",
+            "value": "1"
+        }        
+    }
+}

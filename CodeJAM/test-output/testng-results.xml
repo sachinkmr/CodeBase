@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="72859" started-at="2016-05-05T10:48:10Z" finished-at="2016-05-05T10:49:23Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="72859" started-at="2016-05-05T10:48:10Z" finished-at="2016-05-05T10:49:23Z">
+      <class name="sachin.codejam.SearchFlight">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sachin.codejam.SearchFlight@1fbc7afb]" name="setUp" is-config="true" duration-ms="36514" started-at="2016-05-05T16:18:10Z" finished-at="2016-05-05T16:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="flightDetails()[pri:0, instance:sachin.codejam.SearchFlight@1fbc7afb]" name="flightDetails" duration-ms="19800" started-at="2016-05-05T16:18:47Z" finished-at="2016-05-05T16:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightDetails -->
+        <test-method status="PASS" signature="validationCheck1()[pri:1, instance:sachin.codejam.SearchFlight@1fbc7afb]" name="validationCheck1" duration-ms="2374" started-at="2016-05-05T16:19:07Z" finished-at="2016-05-05T16:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationCheck1 -->
+        <test-method status="PASS" signature="validationCheck2()[pri:2, instance:sachin.codejam.SearchFlight@1fbc7afb]" name="validationCheck2" duration-ms="6430" started-at="2016-05-05T16:19:09Z" finished-at="2016-05-05T16:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationCheck2 -->
+        <test-method status="PASS" signature="validationCheck3()[pri:3, instance:sachin.codejam.SearchFlight@1fbc7afb]" name="validationCheck3" duration-ms="3032" started-at="2016-05-05T16:19:15Z" finished-at="2016-05-05T16:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationCheck3 -->
+        <test-method status="PASS" signature="validationCheck4()[pri:4, instance:sachin.codejam.SearchFlight@1fbc7afb]" name="validationCheck4" duration-ms="2147" started-at="2016-05-05T16:19:18Z" finished-at="2016-05-05T16:19:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationCheck4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sachin.codejam.SearchFlight@1fbc7afb]" name="tearDown" is-config="true" duration-ms="2529" started-at="2016-05-05T16:19:21Z" finished-at="2016-05-05T16:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sachin.codejam.SearchFlight -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>

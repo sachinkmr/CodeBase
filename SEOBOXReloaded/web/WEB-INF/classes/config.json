@@ -1,0 +1,16 @@
+{
+    "ConfigDev": {
+        "url": "http://config-dev.unileversolutions.com/",
+        "username": "skumar213@sapient.com",
+        "password": "334512s!"
+    },
+    "desktopUserAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.52 Safari/537.36",
+    "tabletUserAgent": "",
+    "mobileUserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53",
+    "ConfigDevUsername": "skumar213@sapient.com",
+    "ConfigDevPassword": "334512s!",
+    "dataRepository":"d:\\dataRepository",
+    "Timeout": 15000,
+    "phantomBrowserEXE": "D:\\Sachin\\Tools\\phantomjs-2.0.0-windows\\bin\\phantomjs.exe",
+    "crawledDataRepository":"d:\\dataRepository\\crawledData"
+}

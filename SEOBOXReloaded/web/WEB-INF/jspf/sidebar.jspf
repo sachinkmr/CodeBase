@@ -1,0 +1,75 @@
+<%@page import="com.sachin.site.Data"%>
+<nav class="navbar-side" role="navigation">                        
+    <ul id="side" class="nav navbar-nav side-nav">
+        <!-- begin SIDE NAV logo -->
+        <li class="logo">
+            <img class=" img-responsive  hidden-xs" src="<%=serverName%>${pageContext.request.contextPath}/img/logo.png" alt="SEO" id='seo-img'>             
+            <!--     <a href="<%=serverName%>${pageContext.request.contextPath}" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                             <img class="img-responsive img-circle hidden-xs" src="img/logo.png" alt="SEO" id='seo-img'/>
+                         </a>-->
+            <div class="clearfix"></div>
+        </li>
+        <li class="panel">
+            <a href="<%=serverName%>${pageContext.request.contextPath}" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-home"></i>Home
+            </a>
+            <ul class="collapse nav" id="BV-SEO">                                        
+            </ul>
+        </li>
+        <%
+            String outputAddress = Data.outputAddress;
+            if (outputAddress != null) {
+        %>
+        <li class="panel output-nav-item" id="seo-option-nav">
+            <a href="javascript:;" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#seo-option">
+                <i class="fa fa-bar-chart-o"></i>SEO Option <i class="fa fa-caret-down"></i>
+            </a>
+            <ul class="collapse nav" id="seo-option">
+                <li><a href='<%=outputAddress%>index.html'><i class="fa fa-angle-double-right"></i>All Properties</a> </li>
+                <li><a href='<%=outputAddress%>H1.html'><i class="fa fa-angle-double-right"></i>H1 Tags</a>  </li>
+                <li><a href='<%=outputAddress%>H2.html'><i class="fa fa-angle-double-right"></i>H2 Tags</a> </li>
+                <li><a href='<%=outputAddress%>title.html'><i class="fa fa-angle-double-right"></i>Title Tags</a> </li>
+                <li><a href='<%=outputAddress%>canonical.html'><i class="fa fa-angle-double-right"></i>Canonical URL</a></li>
+                <li><a href='<%=outputAddress%>statusCode.html'><i class="fa fa-angle-double-right"></i>Status Code</a> </li>
+                <li><a href='<%=outputAddress%>url.html'><i class="fa fa-angle-double-right"></i>URLs</a>	  </li>
+                <li><a href='<%=outputAddress%>altText.html'><i class="fa fa-angle-double-right"></i>Image Alt Text</a> </li>
+                <li><a href='<%=outputAddress%>description.html'><i class="fa fa-angle-double-right"></i>Meta Description</a>  </li>
+                <li><a href='<%=outputAddress%>keywords.html'><i class="fa fa-angle-double-right"></i>Meta Keywords</a> </li>
+            </ul>
+        </li>
+
+        <%}%>
+        <!-- end SEO-Option DROPDOWN -->
+        <!-- begin FORMS DROPDOWN -->
+        <!--
+        <li class="panel output-nav-item" id="BV-SEO-nav">
+            <a href="<%=serverName%>${pageContext.request.contextPath}/FAQ" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-edit"></i>BV SEO 
+            </a>
+            <ul class="collapse nav" id="BV-SEO">                                        
+            </ul>
+        </li>
+        -->
+        <li class="panel">
+            <a href="<%=serverName%>${pageContext.request.contextPath}/HistoryPage" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-archive"></i>Reports
+            </a>            
+        </li>
+        <!--
+        <li class="panel">
+            <a href="FAQ" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-question-circle"></i>FAQs
+            </a>            
+        </li>
+       -->
+         
+        <li class="panel">
+            <a href="<%=serverName%>${pageContext.request.contextPath}/UserGuide" data-parent="#side" data-toggle="collapse" class="accordion-toggle" data-target="#">
+                <i class="fa fa-book"></i>User Guide
+            </a>            
+        </li>
+         
+         
+    </ul>
+    <!-- /.side-nav -->
+</nav>
